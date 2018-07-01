@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1032570091180",
+    "firebase_url": "https://social-c58be.firebaseio.com",
+    "project_id": "social-c58be",
+    "storage_bucket": "social-c58be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032570091180:android:79b981b4dae5d91a",
+        "android_client_info": {
+          "package_name": "com.example.dell.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032570091180-mk005lpdbn7416kaaagii4ct8c8egia3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZefien9gx7670PiDVlJCUH7Q7-5A6bj0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

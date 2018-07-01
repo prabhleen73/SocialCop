@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "807622625249",
+    "project_id": "firebase-socialcop"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807622625249:android:79b981b4dae5d91a",
+        "android_client_info": {
+          "package_name": "com.example.dell.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807622625249-rt24rnrc8bshb3c1j4gdu2rf7h7sfaf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.social",
+            "certificate_hash": "f93a1858171b08d695127cc651a7a638780f9715"
+          }
+        },
+        {
+          "client_id": "807622625249-lo9fr6jv30r67vjb5r421i5m9iov3sul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfKtuG4DfuaGbN6sNZeYBV95RCcVRvpwE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
